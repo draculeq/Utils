@@ -1,0 +1,15 @@
+{
+    "name": "Utils",
+    "references": [
+        "GUID:a02d3434f3ac32641a413ce33cdad41f"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
